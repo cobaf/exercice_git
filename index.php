@@ -12,4 +12,5 @@
     echo'I\'m leaning git16';
     echo'I\'m leaning git17';
   }
+ echo" Formations will be finished to.....";
 ?>
